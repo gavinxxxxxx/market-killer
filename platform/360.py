@@ -2,7 +2,7 @@
 
 import common
 
-print('vivo start')
+print('360 start')
 
 driver = common.init()
 
@@ -10,4 +10,4 @@ common.sleep_long()
 
 common.quit(driver)
 
-print('vivo end')
+print('360 end')
